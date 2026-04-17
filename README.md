@@ -33,34 +33,32 @@
 
 ## 📊 GitHub Stats
 
-![Pranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=PatelPranshu21\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=PatelPranshu21\&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelPranshu21\&theme=tokyo-night)
 
 ---
 
 ## 🚀 Projects
 
-* 🔹 **Backend APIs** using Node.js & Express
-* 🔹 **Database-driven apps** with PostgreSQL
-* 🔹 **Java-based systems** (OOP + JDBC)
-* 🔹 **Full-stack applications**
-
-*(Add your project links here later)*
+* 🔹 Backend APIs using Node.js & Express
+* 🔹 PostgreSQL based applications
+* 🔹 Java (OOP + JDBC projects)
+* 🔹 Full-stack apps
 
 ---
 
 ## 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/PatelPranshu21
-* 🔗 LinkedIn: YOUR_LINKEDIN_LINK
+* 🔗 LinkedIn: (Add your link here)
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=PatelPranshu21\&color=blue)
 
 ---
