@@ -53,7 +53,7 @@
 ## 🌐 Connect With Me
 
 * 💻 GitHub: https://github.com/PatelPranshu21
-* 🔗 LinkedIn: (Add your link here)
+* 🔗 LinkedIn: https://www.linkedin.com/in/pranshu-patel
 
 ---
 
