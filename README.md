@@ -2,17 +2,17 @@
 
 ### 🚀 Backend Developer | Building Scalable Systems
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Backend+Developer;Node.js+%7C+Java+%7C+Python;System+Design+Learner;DSA+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&lines=Backend+Developer;Node.js+%7C+Java+%7C+Python;System+Design+Learner;DSA+Enthusiast)
 
 ---
 
 ## 👨‍💻 About Me
 
-* 💡 Backend-focused developer with interest in scalable systems
-* 🧠 Strong foundation in DSA, OOP, and problem-solving
-* ⚙️ Building real-world backend & full-stack applications
-* 🚀 Focused on APIs, performance, and database optimization
-* 📚 Currently learning **System Design & scalable architecture**
+- 💡 Backend-focused developer with interest in scalable systems
+- 🧠 Strong foundation in DSA, OOP, and problem-solving
+- ⚙️ Building real-world backend & full-stack applications
+- 🚀 Focused on APIs, performance, and database optimization
+- 📚 Currently learning **System Design & Scalable Architecture**
 
 ---
 
@@ -31,34 +31,52 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=PatelPranshu21\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=PatelPranshu21\&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelPranshu21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelPranshu21\&theme=tokyo-night)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelPranshu21&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=PatelPranshu21&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Pranshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PatelPranshu21&theme=tokyo-night)](https://github.com/PatelPranshu21)
 
 ---
 
 ## 🚀 Projects
 
-* 🔹 Backend APIs using Node.js & Express
-* 🔹 PostgreSQL based applications
-* 🔹 Java (OOP + JDBC projects)
-* 🔹 Full-stack apps
+- 🔹 Backend APIs using Node.js & Express
+- 🔹 PostgreSQL based applications
+- 🔹 Java (OOP + JDBC projects)
+- 🔹 Full-stack applications
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💻 GitHub: https://github.com/PatelPranshu21
-* 🔗 LinkedIn: https://www.linkedin.com/in/pranshu-patel-a45624331
+- 💻 GitHub: https://github.com/PatelPranshu21
+- 🔗 LinkedIn: https://www.linkedin.com/in/pranshu-patel-a45624331
 
 ---
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PatelPranshu21\&color=blue)
+![](https://komarev.com/ghpvc/?username=PatelPranshu21&color=blue)
 
 ---
