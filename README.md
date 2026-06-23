@@ -30,26 +30,15 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge)
 
 ---
+<!-- GitHub Dashboard -->
+<p align="center">
+  <img
+    src="https://samdev-pulse.vercel.app/api?username=patelpranshu21"
+    alt="Pranshu Patel's GitHub Dashboard"
+    width="100%"
+  />
+</p>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatelPranshu21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatelPranshu21&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PatelPranshu21&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
