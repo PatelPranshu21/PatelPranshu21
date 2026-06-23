@@ -31,26 +31,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=patelpranshu21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Pranshu's GitHub Stats"
-    height="180"
-  />
-  
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=patelpranshu21&theme=tokyonight&hide_border=true"
-    alt="Pranshu's GitHub Streak"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelpranshu21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
+    src="https://samdev-pulse.vercel.app/api/profile?username=patelpranshu21&theme=midnightneon&align=center"
+    alt="Pranshu Patel's GitHub Dashboard"
+    width="100%"
   />
 </p>
 
